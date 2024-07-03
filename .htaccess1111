@@ -1,0 +1,9 @@
+SetEnv PHPRC /home/customer/www/regionalfundsnetwork.com/public_html/php.ini
+
+RewriteEngine On
+
+
+RewriteCond %{SERVER_PORT} 80
+
+
+RewriteRule ^(.*)$ https://www.regionalfundsnetwork.com/$1 [R,L]

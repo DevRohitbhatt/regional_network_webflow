@@ -1,0 +1,6 @@
+[05-Sep-2023 05:09:44 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 4096 bytes) in /home/customer/www/americanadvantagesolutions.com/public_html/download.php on line 54
+[01-Nov-2023 19:52:46 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 4096 bytes) in /home/customer/www/patriot1advantage.com/public_html/download.php on line 54
+[17-Jan-2024 20:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/customer/www/patriot1advantage.com/public_html/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/patriot1advantage.com/public_html/index.php on line 35
